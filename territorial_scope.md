@@ -1,3 +1,6 @@
+# Territorial Scope — MindMesh
+**Date:** 08-05-2026
+
 ## Câu hỏi 1: User EU?
 
 * Có user EU hiện tại: Chưa có dữ liệu xác nhận cụ thể
