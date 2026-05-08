@@ -1,6 +1,7 @@
-# Marketing Claims Audit — [Tên startup]
+# Marketing Claims Audit — MindMesh
 
 **Ngày rà soát:** 08/05/2026
+
 **Người rà soát:** Phan Thị Mai Phương
 
 ## Bảng claim audit
